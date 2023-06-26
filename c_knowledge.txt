@@ -1,0 +1,27 @@
+- To create a simple library in C
+Create a library.h file
+write functions interfaces
+example: add function and subtract function
+
+interfaces: int add(int x, int y)
+            int sub(int x, int y)
+
+
+Create a library.c file
+write functions implementations
+
+implementations:
+
+int add(int x, int y){
+    return x + y;
+}
+
+int sub(int x, int y){
+    return x - y;
+}
+
+
+Include the .h faile in the main file
+include  "library.h"
+
+- call the functions on the main function
