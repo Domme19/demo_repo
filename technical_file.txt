@@ -1,2 +1,7 @@
 Technical content will educate you if you trust yourself enough to put in the required work.
 Some technical areas will be complicated, but you just need to push through.
+Programming is art, and you can become a very good programmer, if you program all the time
+Learn operating systems, how they work, why do they work like that.
+And computer systems will start making sense to you.
+Understand the hardware and how does it interface with software.
+There is great amount of knowledge on all of that
